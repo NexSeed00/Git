@@ -110,7 +110,7 @@ Sourcetreeを確認してみましょう。（ファイルステータス）<br>
 図の丸印にチェックをいれるとaddされます。<br>
 
 ### commit
-![](./img/ope14.png)<br>
+![](./img/ope17.png)<br>
 
 
 
