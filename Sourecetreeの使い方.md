@@ -111,6 +111,7 @@ Sourcetreeを確認してみましょう。（ファイルステータス）<br>
 
 ### commit
 ![](./img/ope17.png)<br>
+commitメッセージを記載し、右下のコミットボタンをクリックしてcommitしましょう
 
 
 
