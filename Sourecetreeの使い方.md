@@ -2,7 +2,7 @@
 Sourcetreeはプログラムのソースコードを管理するGitを簡単に扱うためのGUIツールです。
 - add
 - commit
-- Push
+- push
 <br>
 について実際に手を動かして操作をしながら、SourceTreeの使い方を習得していきましょう。
 
