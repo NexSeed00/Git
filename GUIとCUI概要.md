@@ -24,8 +24,9 @@ STOではGUIとCUIの両方を学習し、使いこなせるようになるこ�
 ![ロゴ](./img/terminal.png)
 <br>
 ### CUI
-Sourcetree,Github Desktop
+Sourcetree
+<br>
 ![ロゴ](./img/sourcetree.png)
-
-MacはUNIX（LINUX）と同じコマンドが使える
+<br>
+MacはUNIX（LINUX）と同じコマンドが使える<br>
 Mac OSはUNIXから派生したOSなのでCUIで同じコマンドが使えます。
